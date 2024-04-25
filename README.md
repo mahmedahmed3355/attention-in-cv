@@ -1,5 +1,5 @@
 
-<img src="./FightingCVimg/LOGO.gif" height="200" width="400"/>
+
 
 
 
