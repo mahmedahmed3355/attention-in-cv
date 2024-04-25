@@ -5,7 +5,7 @@
 
 ##[***Attention***](#attention-series),[***Backbone***](#backbone-series), [***MLP***](#mlp-series), [***Re-parameter***](#re-parameter-series), [**Convolution**](#convolution-series)
 
-![](https://img.shields.io/badge/fightingcv-v0.0.1-brightgreen)
+
 ![](https://img.shields.io/badge/python->=v3.0-blue)
 ![](https://img.shields.io/badge/pytorch->=v1.4-red)
 
