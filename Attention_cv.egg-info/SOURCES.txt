@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+./model/__init__.py
+Attention_cv.egg-info/PKG-INFO
+Attention_cv.egg-info/SOURCES.txt
+Attention_cv.egg-info/dependency_links.txt
+Attention_cv.egg-info/top_level.txt
+model/__init__.py
